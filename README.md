@@ -55,27 +55,27 @@ Users are able to see a detailed list of all products they have been tracking en
 
 
 <img src="https://github.com/latidude99/latidude99/blob/master/images/pr_1.png" width=100%></p>
-<img src="../images/pr_2.png" width=100%></p>
+<img src="https://github.com/latidude99/latidude99/blob/master/images/pr_2.png" width=100%></p>
   <br>
 <p align="center">
-  <img src="../images/pr_3.png" width=100%></p>
+  <img src="https://github.com/latidude99/latidude99/blob/master/images/pr_3.png" width=100%></p>
   <br>
 <p align="center">
-	<img src="../images/pr_4.png" width=100%> </p>
+	<img src="https://github.com/latidude99/latidude99/blob/master/images/pr_4.png" width=100%> </p>
 	<p align="center">
-	<img src="../images/pr_5.png" width=100%> </p>
+	<img src="https://github.com/latidude99/latidude99/blob/master/images/pr_5.png" width=100%> </p>
 	<p align="center">
-	<img src="../images/pr_6.png" width=100%> </p>
+	<img src="https://github.com/latidude99/latidude99/blob/master/images/pr_6.png" width=100%> </p>
 	<p align="center">
-	<img src="../images/pr_7.png" width=100%> </p>
+	<img src="https://github.com/latidude99/latidude99/blob/master/images/pr_7.png" width=100%> </p>
   <br>
 <p align="center">
-	<img src="../images/pr_8.png" width=100%></p>
+	<img src="https://github.com/latidude99/latidude99/blob/master/images/pr_8.png" width=100%></p>
    <br>
    <p align="center">
-	<img src="../images/pr_9.png" width=100%> </p>
+	<img src="https://github.com/latidude99/latidude99/blob/master/images/pr_9.png" width=100%> </p>
 	<p align="center">
-	<img src="../images/pr_10.png" width=100%> </p>
+	<img src="https://github.com/latidude99/latidude99/blob/master/images/pr_10.png" width=100%> </p>
  
 
 
