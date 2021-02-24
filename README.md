@@ -54,7 +54,7 @@ Users are able to see a detailed list of all products they have been tracking en
 ## Screenshots
 
 
-<img src=""https://github.com/latidude99/latidude99/blob/master/images/pr_1.png" width=100%></p>
+<img src="https://github.com/latidude99/latidude99/blob/master/images/pr_1.png" width=100%></p>
 <img src="../images/pr_2.png" width=100%></p>
   <br>
 <p align="center">
